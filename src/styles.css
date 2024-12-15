@@ -31,9 +31,10 @@ nav button {
 }
 
 .name, .philosophy, .testimonials {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.6);
   border-radius: 20% / 40%;
   padding: 1rem 1.5rem;
   text-align: center;
   margin: 1rem;
+  font-weight: 500;
 }
