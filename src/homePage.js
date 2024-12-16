@@ -5,7 +5,7 @@ function buildHomepage() {
   const content = document.querySelector('#content');
   const restaurantName = document.createElement('h1');
   restaurantName.classList.add('name');
-  restaurantName.textContent = "Mota Halwai's Veg Embrace";
+  restaurantName.textContent = "Mota Halwai da Veg Dhaba";
 
   const philosophy = document.createElement('div');
   philosophy.classList.add('philosophy');

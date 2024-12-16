@@ -6,11 +6,11 @@ function buildMenupage() {
   <table>
     <colgroup>
       <col style='width:50vw;'/>
-      <col style='width:30vw;'/>
+      <col style='width:50vw;'/>
     </colgroup>
     <tr>
-    <th>Items</th>
-    <th>Price</th>
+    <th>ITEMS</th>
+    <th>PRICE</th>
     </tr>
       <tr>
       <td>Kala jamun</td>
